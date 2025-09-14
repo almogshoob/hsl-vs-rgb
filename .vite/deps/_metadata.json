@@ -1,0 +1,40 @@
+{
+  "hash": "648277c0",
+  "configHash": "229f145e",
+  "lockfileHash": "d0918c80",
+  "browserHash": "e43bb9fd",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c8094241",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2c6e843d",
+      "needsInterop": true
+    },
+    "colord": {
+      "src": "../../node_modules/colord/index.mjs",
+      "file": "colord.js",
+      "fileHash": "dd2b011a",
+      "needsInterop": false
+    },
+    "colord/plugins/lab": {
+      "src": "../../node_modules/colord/plugins/lab.mjs",
+      "file": "colord_plugins_lab.js",
+      "fileHash": "ef2e5190",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I7K6YDV4": {
+      "file": "chunk-I7K6YDV4.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
+    }
+  }
+}
